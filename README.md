@@ -1,6 +1,6 @@
 # 📚 Barnes & Noble Marketing Plan: A Modern Revival of Bookstores 🚀
 
-Welcome to the **Barnes & Noble Marketing Plan Project**, where innovation meets nostalgia! This project outlines a comprehensive strategy to rejuvenate Barnes & Noble, leveraging cutting-edge marketing techniques and a blend of traditional and modern retail strategies. 🌟
+Welcome to the **Barnes & Noble Marketing Plan Project**, where innovation meets nostalgia! This project outlines a comprehensive strategy to rejuvenate Barnes & Noble, leveraging cutting-edge marketing techniques and a blend of traditional and modern retail strategies. 🌟 This was my capstone submission for my MBA
 
 ---
 
@@ -50,45 +50,36 @@ Experience the future of book shopping:
 ---
 
 ## **📊 SWOT Analysis**
-
-| Strengths            | Weaknesses                |
-|---------------------|--------------------------|
-| Iconic brand        | Declining stock prices   |
-| Loyal customer base | Subpar marketing efforts |
-
-| Opportunities       | Threats                  |
-|---------------------|--------------------------|
-| Social media growth | Amazon dominance        |
-| Digital transformation | Changing demographics |
+![Analyzing the strengths, weaknesses, opportunities, and threats](B&NTargetSWOT.png)
 
 ---
 
 ## **🛠️ Tools Used**
 
-- **Marketing Plan Development**: 📊 SWOT, competitive analysis, SMART objectives.
-- **Creative Tools**: Blender, Canva, Adobe Premiere Pro.
-- **Collaboration Tools**: PowerPoint, Google Docs.
+- **Marketing Plan Development**: 📊 SWOT, competitive analysis, SMART objectives
+- **Creative Tools**: Blender, Canva, Adobe Illustrator
+- **Collaboration Tools**: PowerPoint, Google Docs
 
 ---
 
-## **🖼️ Visuals & Media**
+## **🖼️ Insights Visualized**
 
-### 📊 Insights Visualized
-![Placeholder for Charts](media/charts-placeholder.png)
+### 🎯 Target Customers
+![Customer Traits With Respect to Market Wants & Needs](B&NTargetCustomers.png)
 
-### 📋 Key Takeaways
-![Placeholder for Report](media/report-placeholder.png)
+### 📋 Industry Background
+![Current State of Industry](B&NMarket.png)
 
-### 🎥 Prototype Sneak Peek
-![Placeholder for Animation](media/prototype-sneak-peek.png)
+### 🎥 Unique Selling Proposition
+![B&N's Unique Advantage Over Competitors](B&NUSP.png)
 
 ---
 
 ## **📂 Explore the Project**
 
-1. 📄 **Read the Full Report**: [Barnes & Noble Marketing Plan](docs/marketing-plan.pdf)
-2. 🎥 **Watch the Prototype Demo**: [Virtual Bookstore](https://youtu.be/Nqh1YpvEDm0)
-3. 📊 **Analyze the Data**: Raw data and supporting files available in the repository.
+1. 📄 **Read the Full Report**: [Barnes & Noble Marketing Plan](Barnes&NobleMarketingPlan-SemaaAmin-2023.pdf)
+2. 🎥 **Watch the Prototype Demo**: [Virtual Bookstore]([https://youtu.be/Nqh1YpvEDm0])
+3. 📊 **Analyze the Data**: Raw data and supporting files available upon request
 
 ---
 
