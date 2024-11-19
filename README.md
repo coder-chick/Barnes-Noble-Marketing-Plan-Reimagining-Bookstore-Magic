@@ -25,7 +25,7 @@ Welcome to the **Barnes & Noble Marketing Plan Project**, where innovation meets
 
 Experience the future of book shopping:
 
-[![Virtual Bookstore Prototype](media/virtual-bookstore-thumbnail.png)](https://youtu.be/Nqh1YpvEDm0)
+[![Virtual Bookstore Prototype](Barnes&NobleVideo.mp4)](https://www.youtube.com/watch?v=Nqh1YpvEDm0)
 
 ---
 
